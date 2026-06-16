@@ -14,10 +14,9 @@
 3. **Integrity:** The `config.json` manages the authentication layer, ensuring only authorized users can lock/unlock files.
 
 ## 🚀 How to Run
+
 1. **Download:** Click the green **[Code]** button -> **[Download ZIP]**.
-2. **Extract:** Unzip the folder (contains `main.py` and `config.json`).
-3. **Install Dependencies:**
-   ```bash
-   pip install cryptography
-4. Execute: ```bash
-filer_locker.py
+2. **Extract:** Unzip the files.
+3. **Open Terminal:** Open **PowerShell** or **Command Prompt** in the project folder.
+4. **Execute:** Run the following command:
+   python folder_shield_pro.py
